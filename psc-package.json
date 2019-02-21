@@ -1,0 +1,11 @@
+{
+  "name": "accumulating-actions",
+  "set": "0.12.2-20190221",
+  "source": "https://github.com/justinwoo/spacchetti.git",
+  "depends": [
+    "console",
+    "effect",
+    "prelude",
+    "record"
+  ]
+}
